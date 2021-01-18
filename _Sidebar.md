@@ -1,8 +1,6 @@
 #### Modelo Conceptual
 * [Enunciado Proyecto](Enunciado-proyecto)
-* [Modelo Conceptual Ricardo](Modelo-Conceptual-Ricardo)
-* [Modelo Conceptual JuanPablo](Modelo-Conceptual-JP)
-* [Modelo Conceptual Consolidado](Modelo-Conceptual-Consolidado)
+* [Modelo Conceptual](Modelo-Conceptual-Consolidado)
 -----------
 #### Historias de Usuario
 
