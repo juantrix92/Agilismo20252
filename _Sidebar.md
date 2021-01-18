@@ -4,9 +4,7 @@
 -----------
 #### Historias de Usuario
 
-* [Historias de usuario Ricardo](Historias-de-usuario-Ricardo)
-* [Historias de usuario Juan Pablo](Historias-de-usuario-JP)
-* [Historias de usuario Consolidado](Historias-de-usuario-Consolidado)
+* [Historias de usuario](Historias-de-usuario-Consolidado)
 
 -----------
 #### Diseño UML de la solución
