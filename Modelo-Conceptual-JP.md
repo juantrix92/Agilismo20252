@@ -1,1 +1,0 @@
-![](https://github.com/TiCSw/ordename/blob/master/docs/imagenes/MISOVirtual-Proyecto-ModeloConceptual-JP.png)
