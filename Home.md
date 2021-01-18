@@ -1,4 +1,4 @@
-## Proyecto Ordéname
+## Proyecto Canciones
 ### Integrantes
 
 | Nombre                 | Correo                       |
