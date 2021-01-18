@@ -1,7 +1,15 @@
-La empresa SoftOne lo ha contratado para desarrollar un software llamado “Ordéname”, que le permitirá a un viajero llevar la cuenta de los gastos que realiza con sus acompañantes en actividades como eventos, paseos, viajes, alimentación, y otros en general, con el propósito de distribuir los gastos de manera equitativa entre todos los que participaron en la actividad. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación. 
+Lorenzo es un melómano y un coleccionista de música. Ha pasado toda su vida coleccionando álbumes musicales en discos, casetes y CDs, y tiene tantos, que tiene problemas para recordar en cuál álbum puede encontrar una canción que quiere escuchar. Para solucionar este problema un amigo le recomendó hacer un sistema para almacenar la información de su colección y tener dónde buscar en su colección de manera más fácil las canciones que quiere ubicar. 
 
-Para utilizar este software, el viajero debe abrir una pantalla principal, donde encontrarán una descripción de “Ordéname”, acompañado de un listado de actividades que tiene registradas, con las opciones por cada actividad para verla, darla como terminada, borrarla, o incluso, borrar a un viajero de la actividad si no tiene ningún gasto asociado. Adicionalmente debe ver una opción para crear una nueva actividad, la cual permite adicionar una actividad nueva con un nombre asignado. 
+Lorenzo quiere tener un listado de álbumes para guardar por cada uno el título, año de producción, descripción, los artistas que interpretaron las canciones, las canciones que contiene y el medio sobre el cual está grabado. La idea es que el sistema le permita adicionar álbumes en cualquier momento, sin embargo, el sistema le debe permitir modificar sus datos, e incluso borrar los álbumes si ingresa alguno repetido o que se dañó y ya no se puede escuchar. 
 
-Cuando el viajero abre una actividad verá la lista de gastos asociados a esta, mostrando por cada gasto el concepto, su el valor, la persona que lo realizó y la fecha del gasto. La lista debe ofrecer opciones para para adicionar, editar o eliminar un gasto, agregar a una persona registrada en Ordéname para compartir los gastos de la actividad, una opción para regresar a la lista de actividades, y una opción para generar un reporte con la distribución de gastos por persona y cuánto se deben entre los participantes para hacer una repartición equitativa de los gastos. 
+Cuando Lorenzo elige un álbum de la lista, debe ver su información y las canciones que tiene. Para las canciones del álbum, Lorenzo necesita almacenar su título, duración en minutos y segundos, sus intérpretes, el nombre de su compositor si lo tiene. La idea que tiene es que en cualquier momento pueda editar la información o borrar las canciones, e incluso, ver si la misma canción también se encuentra en otros álbumes, dado que esto se puede presentar. 
 
-Cuando el usuario ya no quiera seguir utilizando Ordéname, podrá utilizar en cualquier momento una opción para salirse del sistema. 
+Debido a que el sistema debe tener los intérpretes, Lorenzo ha pensado que puede ser más fácil tener un listado de ellos aparte, el cual puede ir asociando a las canciones en la medida que las va adicionando en el sistema. La idea que tiene es que solo va a almacenar el nombre de los intérpretes y que estos nombres podrán ser actualizados o borrados en cualquier momento, siempre que no se encuentren asociados a una canción. 
+
+Con toda esta información, Lorenzo quisiera que el sistema le permita hacer las siguientes búsquedas: 
+
+1. Buscar canciones utilizando una parte del título 
+
+2. Buscar álbumes utilizando una parte del título 
+
+3. Buscar canciones utilizando una parte del nombre de un intérprete 
