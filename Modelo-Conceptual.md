@@ -2,10 +2,10 @@
 
 | Concepto | Descripción | Observaciones |
 |---|---|---|
-| Medio | Representa los tipos de medios disponibles en la colección musical. | |
-| Album | Representa los álbumes de música en la colección. | |
-| Interprete | Representa al artista que interpreta las canciones disponibles en cada álbum. |
-| Cancion | Representa las canciones de la colección. |
-| Album-Cancion| Representa las canciones que componen un álbum. | |
-| Interprete-Cancion| Representa los interpretes asociados a una canción. | |
+| Medio | Representa los tipos de medios de reproducción disponibles en la colección musical. | |
+| Album | Representa los álbumes de música. | |
+| Interprete | Representa los artistas que interpretan canciones. |
+| Cancion | Representa las canciones de la colección musical. |
+| Album-Cancion| Relaciona las canciones con los álbumes a los cuales pertenecen, una canción puede estar en varios álbumes y un álbum puede tener varias canciones. | |
+| Interprete-Cancion| Relaciona las canciones con sus intérpretes, . | |
 | Album-Interprete|  |
