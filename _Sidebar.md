@@ -6,7 +6,7 @@
 
 #### Historias de Usuario
 
-* [Historias de usuario](Historias-de-usuario-Consolidado)
+* [Historias de usuario](Historias-de-usuario)
 
 ***
 
