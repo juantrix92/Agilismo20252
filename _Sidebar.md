@@ -1,12 +1,12 @@
 #### Modelo Conceptual
 * [Enunciado Proyecto](Enunciado-proyecto)
-* [Modelo Conceptual](Modelo-Conceptual-Consolidado)
+* [Modelo Conceptual](Modelo-Conceptual)
 
 ***
 
 #### Historias de Usuario
 
-* [Historias de usuario](Historias-de-usuario-Consolidado)
+* [Historias de usuario](Historias-de-usuario)
 
 ***
 
