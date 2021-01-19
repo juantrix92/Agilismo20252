@@ -7,5 +7,5 @@
 | Interprete | Representa los artistas que interpretan canciones. |
 | Cancion | Representa las canciones de la colección musical. |
 | Album-Cancion| Relaciona las canciones con los álbumes a los cuales pertenecen, una canción puede estar en varios álbumes y un álbum puede tener varias canciones. | |
-| Interprete-Cancion| Relaciona las canciones con sus intérpretes, . | |
-| Album-Interprete|  |
+| Interprete-Cancion| Relaciona las canciones con sus intérpretes. | |
+| Album-Interprete| Relaciona los álbumes con sus intérpretes.  |
