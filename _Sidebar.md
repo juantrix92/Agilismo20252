@@ -1,5 +1,5 @@
 #### Modelo Conceptual
-* [Enunciado Proyecto](Enunciado-proyecto)
+* [Enunciado del proyecto](Enunciado-del-proyecto)
 * [Modelo Conceptual](Modelo-Conceptual)
 
 ***
