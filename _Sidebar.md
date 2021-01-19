@@ -17,6 +17,7 @@
 
 #### Formatos
 
-* [F01B Glosario de conceptos](f01b)
+* [F01 Glosario de conceptos](f01b)
 * [F02 Historias de Usuario](f02)
 * [F03 Historias de Usuario Detallada](f03)
+* [F04 Inspección de Historias de Usuario](f04)
