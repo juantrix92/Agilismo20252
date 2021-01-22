@@ -4,7 +4,7 @@ Lorenzo quiere tener un listado de álbumes para guardar por cada uno el título
 
 Cuando Lorenzo elige un álbum de la lista, debe ver su información y las canciones que tiene. Para las canciones del álbum, Lorenzo necesita almacenar su título, duración en minutos y segundos, sus intérpretes, el nombre de su compositor si lo tiene. La idea que tiene es que en cualquier momento pueda editar la información o borrar las canciones, e incluso, ver si la misma canción también se encuentra en otros álbumes, dado que esto se puede presentar. 
 
-Debido a que el sistema debe tener los intérpretes, Lorenzo ha pensado que puede ser más fácil tener un listado de ellos aparte, el cual puede ir asociando a las canciones en la medida que las va adicionando en el sistema. La idea que tiene es que solo va a almacenar el nombre de los intérpretes y que estos nombres podrán ser actualizados o borrados en cualquier momento, siempre que no se encuentren asociados a una canción. 
+Lorenzo también es aficionado a guardar textos curiosos acerca de los intérpretes cuando grabaron las canciones, y le gustaría escribir estos textos curiosos sobre cada intérprete en la medida en que los crea para una canción. En este proceso es posible que se equivoque, por lo que le gustaría actualizar el nombre o el texto de curiosidades sobre un intérprete en cualquier momento, incluso, podría borrar un intérprete con el texto curioso si ya no lo necesita.
 
 Con toda esta información, Lorenzo quisiera que el sistema le permita hacer las siguientes búsquedas: 
 
