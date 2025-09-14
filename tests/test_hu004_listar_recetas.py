@@ -1,3 +1,7 @@
+from factories.ingrediente_factory import build_ingrediente
+from factories.receta_factory import build_receta_completa
+from app.domain.services import Recetario
+
 def test_listar_recetas_devuelve_nombres_y_id(session, faker):
     svc = Recetario(session)
     # seed
