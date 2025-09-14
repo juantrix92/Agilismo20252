@@ -1,3 +1,6 @@
+from factories.ingrediente_factory import build_ingrediente
+from app.domain.services import Recetario
+
 def test_listar_ingredientes_alfabetico(session, faker):
     svc = Recetario(session)
     ings = [build_ingrediente(faker) for _ in range(10)]

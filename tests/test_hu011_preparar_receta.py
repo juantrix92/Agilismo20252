@@ -1,3 +1,7 @@
+from factories.ingrediente_factory import build_ingrediente
+from factories.receta_factory import build_receta_completa
+from app.domain.services import Recetario
+
 def test_preparar_receta_calcula_costos_y_calorias(session, faker):
     svc = Recetario(session)
     ing = [build_ingrediente(faker) for _ in range(2)]

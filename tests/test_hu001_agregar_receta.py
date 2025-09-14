@@ -1,4 +1,5 @@
 import pytest
+from app.domain.services import Recetario
 from factories.ingrediente_factory import build_ingrediente
 from factories.receta_factory import build_receta_completa
 from app.domain.services import Recetario
