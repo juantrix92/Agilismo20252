@@ -1,0 +1,18 @@
+/app
+  /domain
+    models.py           # SQLAlchemy: Ingrediente, Receta, RecetaIngrediente
+    services.py         # Recetario (casos de uso del UML)
+  /infra
+    db.py               # Session, Base (DeclarativeBase)
+  /views                # (si aplica a consola/web)
+tests/
+  test_hu001_agregar_receta.py
+  test_hu004_listar_recetas.py
+  test_hu009_listar_ingredientes.py
+  test_hu011_preparar_receta.py
+  conftest.py           # fixtures (session SQLite en memoria, faker)
+factories/
+  receta_factory.py
+  ingrediente_factory.py
+requirements.txt
+.github/workflows/ci.yml
