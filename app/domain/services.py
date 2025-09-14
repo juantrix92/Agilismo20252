@@ -1,3 +1,3 @@
 class Recetario:
     def ping(self):
-        return True
+        return bool(1)
