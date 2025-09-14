@@ -1,0 +1,42 @@
+name: Historia de Usuario (HU)
+description: Crear o actualizar una Historia de Usuario del sprint
+title: "HU000 – <título corto>"
+labels: ["feature","Sprint:M7"]
+body:
+  - type: input
+    id: hu
+    attributes: { label: Identificador HU, placeholder: "HU001" }
+    validations: { required: true }
+  - type: textarea
+,   id: desc
+    attributes:
+      label: Descripción
+      description: "Como <rol> quiero <acción> para <beneficio>."
+      placeholder: "Como admin quiero..."
+    validations: { required: true }
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación (Given/When/Then)
+      placeholder: |
+        Given ...
+        When ...
+        Then ...
+    validations: { required: true }
+  - type: checkboxes
+    id: tareas
+    attributes:
+      label: Tareas (TDD Rojo–Verde–Azul)
+      options:
+        - label: Rojo – pruebas con Faker
+        - label: Verde – implementación mínima
+        - label: Azul – refactor + cobertura ≥ 80%
+        - label: PR → develop (pair review)
+        - label: CI en verde (pytest + coverage)
+        - label: Actualizar docs y mover a Done
+  - type: dropdown
+    id: prioridad
+    attributes:
+      label: Prioridad
+      options: ["P0","P1","P2"]
+    validations: { required: true }
